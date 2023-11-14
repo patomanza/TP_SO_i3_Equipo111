@@ -1,0 +1,6 @@
+a-¿Como queda El master después de estos cambios? Queda actualizado con respecto al contenido de las otras ramas.
+
+b-¿Beta pudo ver todos los cambios que se realizaron? Si, beta pudo ver los cambios realizados.
+
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ? 1.git checkout main 2.git merge Bottaro 3. git commit -m "Merging" 4.git push origin main
