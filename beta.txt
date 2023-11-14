@@ -1,0 +1,28 @@
+Patricio Manzanares 18:52
+
+eno2: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 8c:47:be:12:fb:ce  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 16  memory 0x91300000-91320000  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 84734  bytes 119330513 (119.3 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 84734  bytes 119330513 (119.3 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlo1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.238  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::6fb5:dc9b:3228:faa7  prefixlen 64  scopeid 0x20<link>
+        ether 34:7d:f6:86:e6:10  txqueuelen 1000  (Ethernet)
+        RX packets 7679803  bytes 9542254900 (9.5 GB)
+        RX errors 0  dropped 1  overruns 0  frame 0
+        TX packets 3332268  bytes 711802538 (711.8 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
