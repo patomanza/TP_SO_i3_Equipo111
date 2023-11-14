@@ -2,5 +2,16 @@ a-¿Como queda El master después de estos cambios? Queda actualizado con respec
 
 b-¿Beta pudo ver todos los cambios que se realizaron? Si, beta pudo ver los cambios realizados.
 
-
 c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ? 1.git checkout main 2.git merge Bottaro 3. git commit -m "Merging" 4.git push origin main
+
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados? No.
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge? tuvimos problemas con la fusión del Datos.txt en el merge
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+se debió cambiar de rama con el git checkout hacia la rama beta,git pull para actualizar los archivos y luego modificarlos, luego git add . para agregar los archivos todos los archivos modificados y finalmente git push -u origin (nombre de la rama) 
+
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido? 
+
+Se descarga el repositorio con git clone (link del repositorio) y se inicializa en local se crea una rama con el mismo nombre de la rama que queremos actualizar con git checkout -b (nombre de la rama), luego git add . para agregar los archivos todos los archivos modificados y finalmente git push -u origin (nombre de la rama) 
