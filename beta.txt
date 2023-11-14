@@ -26,5 +26,7 @@ wlo1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         TX packets 3332268  bytes 711802538 (711.8 MB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
+
 Juan Manuel Bottaro 192.168.0 06:19
+
 
